@@ -404,11 +404,10 @@ body{
 }
 
 .page3 .slider h1{
-  font-size: 21vh;
+  font-size: 20vh;
   font-family: lemonBold;
-  width: 100%;
   white-space: nowrap;
-  padding: 0 0 0 3vw;
+  padding: 0 0 0 0;
   color: #888;
 }
 
@@ -951,7 +950,7 @@ body{
   
   .last-pt1>p, .last-pt2>p, .last-pt3>p, .last-pt4>p{
     font-family: poppins;
-    font-size: 1.55vh;
+    font-size: 1.5vh;
     text-transform: capitalize;
     text-align: justify;
   }
