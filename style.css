@@ -407,7 +407,7 @@ body{
   font-size: 20vh;
   font-family: lemonBold;
   white-space: nowrap;
-  padding: 0 0 0 0;
+  padding: 0 0 0 -1vh;
   color: #888;
 }
 
@@ -812,10 +812,11 @@ body{
 .sorry-title>h1{
   font-family: signite;
   font-weight: 100;
+  font-size: 3.5vh;
   color: #777;
   text-transform: capitalize;
   -webkit-text-stroke: 1px #777;
-  margin: 0 0 -1vh 0;
+  margin: 0 0 -0.5vh 0;
 }
 
 .sorry-title>small{
