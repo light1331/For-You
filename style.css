@@ -407,7 +407,7 @@ body{
   font-size: 20vh;
   font-family: lemonBold;
   white-space: nowrap;
-  padding: 0 0 0 -1vh;
+  padding: 0 0 0 -0.5vh;
   color: #888;
 }
 
@@ -816,7 +816,7 @@ body{
   color: #777;
   text-transform: capitalize;
   -webkit-text-stroke: 1px #777;
-  margin: 0 0 -0.5vh 0;
+  margin: 0 0 -1.55vh 0;
 }
 
 .sorry-title>small{
