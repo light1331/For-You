@@ -219,7 +219,7 @@ gsap.from(".page3Head>small", {
 });
 
 gsap.to(".page3 .slider h1", {
-  transform: 'translateX(-100%)',
+  transform: 'translateX(-80%)',
   scrollTrigger: {
     trigger: ".page3",
     scroller: "body",
